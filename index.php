@@ -1,5 +1,5 @@
 <?php
-//test v2
+//test v3
 require 'config.php';
 require 'functions.php';
 
